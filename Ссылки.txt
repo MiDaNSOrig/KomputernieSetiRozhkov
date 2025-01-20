@@ -1,0 +1,4 @@
+Ссылка 1
+https://colab.research.google.com/drive/14cDmKh67I0Lsv8Az1TXUVNDnnKyp3TVq?usp=sharing
+Ссылка 2
+https://colab.research.google.com/drive/1KCo_j-BsxKgjqKQd1yzNjQpkK_gpv4b-?usp=sharing
